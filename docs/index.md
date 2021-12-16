@@ -7,7 +7,7 @@ nav_order: 0
 # HC MID Hackathon 2022
 
 <div>
-<div style="float-left;"><h2>Saturday, February 12, 2022</h2></div>
+<div style="float-left;"><h2>Saturday, February 5, 2022</h2></div>
 <div style="float: right; margin: 10px; clear: right;">
 <img src ="https://hcmid.github.io/ms-hackathon-2021/imgs/p481-labelled-small.png" />
 </div>
@@ -23,9 +23,9 @@ Our text this year will be the *Aratus Latinus* from the manuscript St. Gallen S
 ### Summary of our schedule
 
 
-- Friday afternoon, Feb. 11:  optionally drop in to MID's regular Friday  meeting via Zoom for a tech checkup.  We can help you install or configure any software you need help with.
-- Saturday  morning, Feb. 12: introduction to our editing system with interactive notebooks to validate your editing
-- Saturday afternoon, Feb. 12: you'll work with one or more current MID students to edit a selection from our manuscript.
+- Friday afternoon, Feb. 4:  optionally drop in to MID's regular Friday  meeting via Zoom for a tech checkup.  We can help you install or configure any software you need help with.
+- Saturday  morning, Feb. 5: introduction to our editing system with interactive notebooks to validate your editing
+- Saturday afternoon, Feb. 5: you'll work with one or more current MID students to edit a selection from our manuscript.
 
 
 ### Technical preparation
